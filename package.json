@@ -1,0 +1,24 @@
+{
+  "name": "my-perfect-ci-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitthapat-j/my-perfect-ci-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitthapat-j/my-perfect-ci-project/issues"
+  },
+  "homepage": "https://github.com/kitthapat-j/my-perfect-ci-project#readme",
+  "devDependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.1"
+  }
+}
