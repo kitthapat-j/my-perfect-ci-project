@@ -1,5 +1,5 @@
-const { greet } = require('../src/index');
-const { expect } = require('chai');
+import { greet } from '../src/index.js';
+import { expect } from 'chai';
 
 describe('Greeting Function', () => {
   it('should return "Hello, World!"', () => {
